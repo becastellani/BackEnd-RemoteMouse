@@ -56,7 +56,6 @@ pip install flask flask-cors pyautogui pillow pycaw qrcode
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/seu-usuario/controle-remoto-backend.git](https://github.com/becastellani/BackEnd-RemoteMouse.git
-   cd controle-remoto-backend
   ``
 
 2. **Compile o executável**:
